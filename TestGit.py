@@ -4,3 +4,4 @@ def countdown(n):
     print("Boom! Run out of time!")
 
 countdown(5)
+print("new things")
